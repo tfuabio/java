@@ -7,5 +7,6 @@ public class Chapter04 {
 		System.out.println(str);
 		final int LUCKY_NUM = 3;
 		System.out.println(LUCKY_NUM);
+		
 	}
 }
